@@ -1,0 +1,135 @@
+body
+{
+
+background:pink;   
+}
+
+.wrapper
+{
+width: 1200px;
+min-height: 500px;
+background: orange;
+
+margin:auto;
+border-top: 10px solid red;
+border-bottom: 10px solid red;  
+}
+
+
+
+
+.header
+{
+width: 1200px;
+height: 100px;
+background:lightsalmon;
+align-self:flex-start;
+align-self: center;
+text-align: center;
+border-top: 10px solid blueviolet;
+color:white;
+font-family: algerian;
+font-size: 20px;;
+border-bottom: 10px solid blueviolet;
+}
+
+.nav
+{
+width: 1200px;
+height: 50px;
+background: coral;
+border-bottom: 10px solid blueviolet;
+
+}
+.nav table tr td
+{
+text-align: center;
+color:white;
+padding: 15px;
+word-spacing: 20px;
+
+}
+
+
+
+
+
+.part1
+{
+width: 300px;
+min-height: 300px;
+background:cornsilk;
+float: left;
+}
+.part1_1
+{
+
+width:300px;
+min-height:150px;
+background: red;
+
+}
+.part1_2
+{
+
+width:300px;
+min-height:150px;
+background: yellow;
+
+}
+
+
+
+
+
+.part2
+{
+width: 600px;
+min-height: 300px;
+background:gainsboro;
+float: left;
+}
+
+
+
+
+
+.part3
+{
+width: 300px;
+min-height: 300px;
+background:cornsilk;
+float: left;
+}
+
+.part3_1
+{
+
+width:300px;
+min-height:150px;
+background: red;
+
+}
+.part3_2
+{
+
+width:300px;
+min-height:150px;
+background: yellow;
+
+}
+
+
+/*
+.footer
+{
+min-height: 20px;
+border-top: 10px solid red;
+background: coral;
+text-align: center;
+color:white;
+padding: 10px;
+align-self: center;
+
+}
+*/
